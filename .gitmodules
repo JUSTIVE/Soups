@@ -13,3 +13,6 @@
 [submodule "FlowerSoup"]
 	path = FlowerSoup
 	url = https://github.com/JUSTIVE/FlowerSoup.git
+[submodule "javascript-soup"]
+	path = javascript-soup
+	url = https://github.com/JUSTIVE/javascript-soup

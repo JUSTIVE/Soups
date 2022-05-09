@@ -4,3 +4,6 @@
 [submodule "React-soup"]
 	path = React-soup
 	url = https://github.com/JUSTIVE/React-soup.git
+[submodule "missing-semester-soup"]
+	path = missing-semester-soup
+	url = https://github.com/JUSTIVE/missing-semester-soup

@@ -10,3 +10,6 @@
 [submodule "typescript-soup"]
 	path = typescript-soup
 	url = https://github.com/JUSTIVE/typescript-soup
+[submodule "FlowerSoup"]
+	path = FlowerSoup
+	url = https://github.com/JUSTIVE/FlowerSoup.git

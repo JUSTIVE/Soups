@@ -1,0 +1,3 @@
+[submodule "Rust-soup"]
+	path = Rust-soup
+	url = https://github.com/JUSTIVE/Rust-soup.git

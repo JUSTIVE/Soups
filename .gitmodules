@@ -7,3 +7,6 @@
 [submodule "missing-semester-soup"]
 	path = missing-semester-soup
 	url = https://github.com/JUSTIVE/missing-semester-soup
+[submodule "typescript-soup"]
+	path = typescript-soup
+	url = https://github.com/JUSTIVE/typescript-soup

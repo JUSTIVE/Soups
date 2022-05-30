@@ -19,3 +19,6 @@
 [submodule "Rescript-soup"]
 	path = Rescript-soup
 	url = https://github.com/JUSTIVE/Rescript-soup.git
+[submodule "GraphQL-Soup"]
+	path = GraphQL-Soup
+	url = https://github.com/JUSTIVE/GraphQL-Soup.git

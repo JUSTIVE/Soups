@@ -22,3 +22,6 @@
 [submodule "GraphQL-Soup"]
 	path = GraphQL-Soup
 	url = https://github.com/JUSTIVE/GraphQL-Soup.git
+[submodule "Purescript-Soup"]
+	path = Purescript-Soup
+	url = https://github.com/JUSTIVE/Purescript-Soup.git

@@ -25,3 +25,6 @@
 [submodule "Purescript-Soup"]
 	path = Purescript-Soup
 	url = https://github.com/JUSTIVE/Purescript-Soup.git
+[submodule "LambdaCalculus-Soup"]
+	path = LambdaCalculus-Soup
+	url = https://github.com/JUSTIVE/LambdaCalculus-Soup.git

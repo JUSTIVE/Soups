@@ -28,3 +28,6 @@
 [submodule "LambdaCalculus-Soup"]
 	path = LambdaCalculus-Soup
 	url = https://github.com/JUSTIVE/LambdaCalculus-Soup.git
+[submodule "Ocaml-Soup"]
+	path = Ocaml-Soup
+	url = https://github.com/JUSTIVE/Ocaml-Soup.git

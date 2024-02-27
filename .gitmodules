@@ -31,3 +31,6 @@
 [submodule "Ocaml-Soup"]
 	path = Ocaml-Soup
 	url = https://github.com/JUSTIVE/Ocaml-Soup.git
+[submodule "Daphne-soup"]
+	path = Daphne-soup
+	url = https://github.com/JUSTIVE/Daphne-soup.git
